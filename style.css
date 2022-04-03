@@ -198,3 +198,14 @@ a {
     border: 2px solid #E5E7EB;
     font-weight: 700;
 }
+
+.footer-info {
+    height: 72px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 700;
+}
