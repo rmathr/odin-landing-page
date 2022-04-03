@@ -158,3 +158,43 @@ a {
     font-weight: 900;
     padding-top: 12px;
 }
+
+.general-call {
+    height: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.general-container{
+    background-color: #3882F6;
+    width: 50%;
+    height: 50%;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.general-sec1 {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.general-title {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.general-button {
+    background-color: #3882F6;
+    padding: 8px 36px;
+    color: #E5E7EB;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 2px solid #E5E7EB;
+    font-weight: 700;
+}
