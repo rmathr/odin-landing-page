@@ -91,4 +91,45 @@ a {
     font-size: 18px;
     border-radius: 10px;
     border: none;
+    font-weight: 700;
+}
+
+.random-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 36px 0;
+}
+
+.random-info h2 {
+    font-size: 32px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.cards img {
+    width: 280px;
+    height: auto;
+    border: 2px solid #1F2937;
+    border-radius: 10px;
+}
+
+.cards p{
+    width: 280px;
+    padding-top: 18px;
+}
+
+.cards-info {
+    display: flex;
+    justify-content: center;
+    padding-top: 48px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
 }
